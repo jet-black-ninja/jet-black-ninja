@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jet-black-ninja
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... CPP , Python , DSA
+- 👀 I’m interested in ... Full Stack devlopmend and Java Applicaions
+- 🌱 I’m currently learning ... DSA, ReactJs, Typescript,ExpressJs 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... sachinkmrsin@gmail.com
 
