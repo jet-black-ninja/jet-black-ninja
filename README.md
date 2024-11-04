@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sachin Kumar Singh
 ==========================================================================================================================================
 
-Full Stack Engineer
+Full Stack Developer
 -------------------
 
 I'm passionate about building impactful applications with TypeScript, React, Node.js, and MongoDB. I enjoy tackling challenges in web development, exploring new technologies, and leveling up my skills, one project at a time.* 
